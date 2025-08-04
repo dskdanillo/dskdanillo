@@ -1,39 +1,22 @@
 <h1 align="center">Bem-vindo(a), Maker! 🚀</h1>
 
-<p align="center">
-  <img src="./Danillo.JPG" alt="Visualizações do perfil" />
-</p>
+
 
 <hr />
 
-<a href="https://github.com/strongreen" target="_blank">
+<a href="https://dskdanillo.github.io/" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 
 <p align="left">
-  <b>Fala, Makers! 👋</b> <br/>
-  Sou <b>Hendrick Ströngreen</b>, Engenheiro da Computação, pós-graduado em IoT e Ethical Hacking & Cybersecurity. <br/>
-  🔐 Especialista em IoT Security e Hardware Hacking com conhecimentos sólidos em desenvolvimento de software.  
-  🌍 Meu objetivo é levar minha expertise para o cenário internacional – e a Alemanha é meu próximo destino!  
+  <b>Fala, Makers! 👋</b> <br/><br>
+  Sou <b>Danillo de Souza Koch</b><br>Técnico em Automação industrial e Estudante de Análise e Desenvolvimento de Sistemas<br/> 
+  🌍 Meu objetivo busco oportunidades para iniciar minha carreira como desenvolvedor. Tenho interesse em atuar com tecnologias modernas, contribuir em projetos reais e continuar aprendendo diariamente. Meu objetivo é crescer profissionalmente, desenvolvendo soluções que agreguem valor e impacto através da tecnologia!  
 </p>
 
-<a href="https://www.instagram.com/strongreen/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
 
-<p align="left">
-  Atuo na <b>@Accenture</b> com Pentest e desenvolvimento seguro. Além disso, sou criador de conteúdo sobre tecnologia no <a href="https://youtube.com/strongreen_/">YouTube</a>, <a href="https://linkedin.com/in/strongreen/">LinkedIN_</a> e <a href="https://instagram.com/strongreen/">Instagram</a>.  
-</p>
 
-<a href="https://www.youtube.com/strongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a>
-
-<p align="left">
-  🚀 Com uma forte base técnica e experiência prática, participo ativamente da comunidade de segurança, palestrando em eventos e contribuindo para a educação tecnológica.  
-</p>
-
-<a href="https://www.linkedin.com/in/strongreen/" target="_blank">
+<a href="https://www.linkedin.com/in/danillo-koch-bb85a0355/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
@@ -41,67 +24,33 @@
 
 ## 💼 Experiência Profissional
 
-### 🔹 **Accenture** – Cybersecurity Specialist    
-- Pentest & Ethical Hacking  
-- Secure Development Lifecycle (SDLC)  
+### 🔹 Desenhista – Mecânico  
 
-### 🔹 **KaBuM!** – Full Stack Developer  
-- Backend & Frontend: **Perl, Python, AngularJS, TypeScript, Next.js, NestJS**  
-- Secure Coding Practices  
+* <h4>Desenhista de Layout - Eng de Fábrica - Krona Tubos e conexões</h4>
+* <h4>Desenhista Mecânico - Setor de projetos - Dark Calderária</h4>
+* <h4>Desenhista Mecânico - Setor de projetos - InoxWerk</h4>
+* <h4>Desenhista Mecânico - Setor de projetos - Famak</h4>
 
----
+### 🔹 Operacionais 
 
-## 🎤 Palestras & Eventos
+* <h4>Operador CNC - Setor Usinagem - Mecanica Leme</h4>
+* <h4>Operador CNC - Setor Usinagem - Schulz Automotiva</h4>
+* <h4>Logística - Setor Rodoviário - Forma Gesso</h4>  
 
-- **Arduino Day** – IoT & Embedded Security  
-- **LatinoWare** – Ethical Hacking & Cybersecurity  
-- **Portal Embarcados** – Hardware Hacking  
-- **Roadsec** – Segurança para IoT e Pentest  
-- **Campus Party** – Cultura Maker & Cybersecurity  
-- **Bxsec | Hacking na Web Day** – Offensive Security  
-
----
-
-## 🛠️ Tech Stack & Skills  
-
-### **🔹 Segurança & Pentest**
-- Offensive Security: Kali Linux, Metasploit, Burp Suite, Nmap  
-- AppSec: Secure Development, OWASP, SAST & DAST  
-- IoT Security: Hardware Hacking, Car Hacking, Lockpicking  
-- Cloud Security: AWS, Azure  
 
 ### **🔹 Desenvolvimento**
-- **Languages:** Python, TypeScript, JavaScript, Perl, C  
-- **Frontend:** React, Angular, Next.js  
-- **Backend:** Node.js, Express, NestJS, Django  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps & Infra:** Docker, Linux, Git, CI/CD  
+- Languages:** Algoritmo Portugol, JavaScript, HTML, CSS 
 
----
-
-## 🎯 Hobbies & Interesses
-
-### **🔹 Cybersecurity & Hacking**
-- IoT Security, Hardware Hacking  
-- Lockpicking & Car Hacking  
+### **🔹 Lazer com Família**
+- Passeios ao Parque
 
 ### **🔹 Atividades Físicas & Lazer**
-- Academia (Musculação)
-- Longboard  
-- Massoterapia  
+- Volei
 
-### **🔹 Outros**
-- Criar conteúdo educativo  
-- Ler livros técnicos 
-- Tocar Guitarra & Contra-baixo
-- Passeios com cachorro
-
----
 
 ## 📫 Contato
-
-💬 Quer bater um papo sobre tecnologia ou segurança? Me chama!  
-📧 **Email:** [contato@strongreen.com](mailto:contato@strongreen.com)  
+ 
+📧 **Email:** [dsk.danillo@gmail.com)  
 📍 Baseado no Brasil, aberto a oportunidades internacionais 🌍  
 
 ---
