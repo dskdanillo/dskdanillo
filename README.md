@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo(a), Maker! 🚀</h1>
+<h1 align="center">Bem-vindo(a)🚀</h1>
 
 
 
@@ -39,7 +39,7 @@
 
 
 ### **🔹 Desenvolvimento**
-- Languages:** Algoritmo Portugol, JavaScript, HTML, CSS 
+- Languages: Algoritmo Portugol, JavaScript, HTML, CSS 
 
 ### **🔹 Lazer com Família**
 - Passeios ao Parque
@@ -50,8 +50,13 @@
 
 ## 📫 Contato
  
-📧 **Email:** [dsk.danillo@gmail.com)  
+📧 **Email:** dsk.danillo@gmail.com 
 📍 Baseado no Brasil, aberto a oportunidades internacionais 🌍  
 
+ ## Estatística 
+ <div class="stats-container">
+    <img src="https://github-readme-stats.vercel.app/api?username=dskdanillo&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskdanillo&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  </div>
 
 
