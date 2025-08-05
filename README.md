@@ -52,12 +52,15 @@
 - Volei
 
 
-## 📫 Contato
+### 📫 Contato
  
 📧 **Email:** dsk.danillo@gmail.com 
-📍 Baseado no Brasil, aberto a oportunidades internacionais 🌍  
 
- ## Estatística 
+### 📚 Conhecimento 
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,html,css,cpp)]
+
+ ### Estatística 
  <div class="stats-container">
     <img src="https://github-readme-stats.vercel.app/api?username=dskdanillo&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskdanillo&layout=compact&theme=radical" alt="Linguagens mais usadas">
