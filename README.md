@@ -58,7 +58,7 @@
 
 ### 📚 Conhecimento 
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,html,css,cpp)]
+![My Skills](https://skillicons.dev/icons?i=eclipse,html,css,cpp)
 
  ### Estatística 
  <div class="stats-container">
