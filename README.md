@@ -54,6 +54,4 @@
 📍 Baseado no Brasil, aberto a oportunidades internacionais 🌍  
 
 
-<p align="center">
-  ⭐️ Baseado em <a href="https://github.com/CallmeMehdi">CallmeMehdi</a>
-</p>
+
