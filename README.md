@@ -28,7 +28,7 @@
 
 ## 💼 Experiência Profissional
 
-### 🔹 Desenhista – Mecânico  
+### 🔹 Desenhista  Mecânico  
 
 * <h4>Desenhista de Layout - Eng de Fábrica - Krona Tubos e conexões</h4>
 * <h4>Desenhista Mecânico - Setor de projetos - Dark Calderária</h4>
