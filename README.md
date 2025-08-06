@@ -65,7 +65,6 @@
 
 ## 📊 Estatísticas
 
-<div class="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=dskdanillo&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskdanillo&layout=compact&theme=radical" alt="Linguagens mais usadas">
-</div>
+<a href="https://github.com/GUZ3">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dskdanillo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dskdanillo&layout=compact&theme=dark">
