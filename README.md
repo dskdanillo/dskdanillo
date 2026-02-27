@@ -39,7 +39,7 @@
 
 ### 🔹 Desenvolvimento
 
-- Linguagens: Portugol, JavaScript, HTML, CSS
+- Linguagens: JavaScript, HTML, CSS, PHP, Git, GitHub.
 
 ### 🔹 Lazer com Família
 
@@ -47,7 +47,7 @@
 
 ### 🔹 Atividades Físicas & Lazer
 
-- Vôlei
+- Vôlei 
 
 ---
 
