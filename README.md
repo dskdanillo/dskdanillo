@@ -1,5 +1,5 @@
 <h1 align="center">Bem-vindo(a) 🚀</h1>
-<img src="./bannerDanillo.jpg" alt="Banner Danillo" />
+<img src="./img-danillo.png" alt="Banner Danillo" />
 
 <hr />
 
